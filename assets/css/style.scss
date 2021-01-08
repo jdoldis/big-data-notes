@@ -1,0 +1,55 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+p.block {
+    text-align: center;
+    border: 1px solid black;
+    font-style: italic;
+}
+
+table.output {
+    width: auto;
+    border: none;
+}
+
+table.output * {
+    border: none;
+}
+
+code {
+    padding: 1px 5px;
+    white-space: pre-wrap;
+    background-color: #eee; 
+}
+
+pre {
+    overflow: auto;
+    margin-top: 10px;
+    border-radius: 3px;
+}
+
+pre code {
+    white-space: inherit;
+    padding: 0;
+    background-color: transparent;
+}
+
+li {
+  margin: 5px 0;
+}
+
+a {
+    color: #069;
+}
+
+a:hover, a:focus { 
+    font-weight: normal;
+    text-decoration: underline;
+}
+
+#title_link:hover, #title_link:focus {
+    font-weight: bold;
+    text-decoration: none;
+}

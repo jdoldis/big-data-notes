@@ -1,0 +1,19 @@
+theme: jekyll-theme-minimal
+title: Big Data Notes
+description: Exploring big data technologies with Raspberry Pi.
+markdown: kramdown
+google_analytics: UA-176742672-1
+kramdown:
+  parse_block_html: true
+  toc_levels: "2,3"
+collections:
+  topics:
+    output: true
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+plugins:
+  - jekyll-seo-tag
