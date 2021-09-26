@@ -40,3 +40,8 @@ I figured out how to do everything from a bunch of good guides.
 - <https://stackoverflow.com/questions/30921515/main-difference-between-dynamic-and-static-partitioning-in-hive>
 - <https://www.youtube.com/watch?v=5C3_HZY2Ek4>
 - <https://www.qubole.com/blog/5-tips-for-efficient-hive-queries/>
+
+## Kafka
+- <https://www.amazon.de/-/en/Neha-Narkhede/dp/1491936169>
+- <https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying>
+- <https://docs.confluent.io/platform/current/streams/concepts.html>
